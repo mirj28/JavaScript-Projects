@@ -1,1 +1,1 @@
-'alert()method'
+window.alert()method
